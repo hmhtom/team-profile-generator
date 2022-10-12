@@ -28,8 +28,6 @@ This is a light-weight command-line team profile page generator. It used inquire
 > 6. Once finishing adding all team members, choose `Exit` to exit the application and create your team profile html page.
 > 7. Output file path will be saved under `dist/sample.html`
 
-[Here is the link to a sample Team Profile Page](./dist/sample.html)
-
 [Here is a walkthrough video to the application](https://drive.google.com/file/d/1v5UAJOXFBF0jeI_ZURQL6ynuT7vTg69A/view)
 
 ## Contribution
