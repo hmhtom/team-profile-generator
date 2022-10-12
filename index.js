@@ -145,7 +145,7 @@ const menu = () => {
           content += internCards;
           content += renderEnd();
 
-          fs.writeFile("./dist/test.html", content, (err) => {
+          fs.writeFile("./dist/sample.html", content, (err) => {
             err
               ? console.error(err)
               : console.log("Team Profile Successfully created");
